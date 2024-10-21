@@ -2,4 +2,3 @@
 
 Exercices sur la modélisation logique
 
-[énoncé des exercices Exercices_MCD](Enonce_Modelisation/Exos_Modelisation.pdf)
